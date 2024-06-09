@@ -113,7 +113,14 @@ img{
   padding: 10px;
   box-shadow: 2px 3px 10px #ccc;
 }
-
+.character-box-img img:nth-child(3) {
+  display: block;
+  width: 350px;
+  height: 400px;
+  margin: 0 auto 20px;
+  padding: 10px;
+  box-shadow: 2px 3px 10px #ccc;
+}
 
 .footer{
   text-align: center;
