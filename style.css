@@ -105,7 +105,7 @@ img{
 }
 
 .character-box-img img:nth-child(2) {
-  float: right;
+  float: block;
   width: 350px;
   height: 400px;
   margin-left: 40px;
